@@ -1,4 +1,9 @@
 first line of code
 new line added
+<<<<<<< HEAD
 one more line added 
+4th line deleted using git checkout
+5th line added to see reset command
+=======
+>>>>>>> parent of dc2b68a... all files are added
 
